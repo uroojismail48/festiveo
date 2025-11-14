@@ -1,2 +1,0 @@
-# Festiveo
-website on Festivals
